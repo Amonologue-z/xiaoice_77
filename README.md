@@ -8,6 +8,8 @@
 
 :warning:注意，第一次使用的时候需要设置 config.ini  :warning:   config.json  请不要动
 
+:warning:第一次登录如果有闪退的现象那么就重启一下软件
+
 ## config.ini 配置详解
 
 | 字段             | 必要性 | 解释                                                |
